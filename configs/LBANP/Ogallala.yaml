@@ -1,0 +1,11 @@
+n_epochs: 8
+batch_size: 32
+n_samples: 25000
+
+weight_decay: 0.0
+learning_rate: !!float 5e-4
+
+verbose: True
+save_freq: 1
+log_freq_iters: 100
+log_freq_epoch: 1

@@ -1,0 +1,10 @@
+n_epochs: 1000
+batch_size: 1024
+n_samples: 25000
+
+weight_decay: 0.0
+learning_rate: !!float 0.01
+
+verbose: True
+save_freq: 500
+log_freq_epoch: 100
